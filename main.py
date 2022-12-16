@@ -166,6 +166,7 @@ def user_stats(df):
 
 
 def main():
+    #the main function to test the functions in the project.
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)

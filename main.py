@@ -4,7 +4,7 @@ import numpy as np
 import json
 
 
-
+#here is the city data you can add another city here if you have the data
 CITY_DATA = {'chicago': 'chicago.csv',
              'new york city': 'new_york_city.csv',
              'washington': 'washington.csv'}

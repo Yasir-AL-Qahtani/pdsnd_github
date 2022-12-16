@@ -1,5 +1,9 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
+### Goal of the Project
+the main goal of the project is to use all the skills I learned in the course
+
+
 ### Import
 you need to import:
 import time
